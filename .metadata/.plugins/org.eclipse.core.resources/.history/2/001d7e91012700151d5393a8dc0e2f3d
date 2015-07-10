@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+
+
+<form action="details.html">
+<fieldset >
+<legend>Customer</legend>
+<label>Name</label>
+<input name="name">
+<br>
+<label>Surname</label>
+<input name="surname">
+<br>
+<label>Email</label>
+<input name="email">
+<br>
+<label>Type</label>
+<input type="radio" name="Individual"><label>Individual</label>
+<input type="radio" name="Bussiness"><label>Bussiness</label>
+</fieldset>
+<fieldset>
+<legend>Pizza</legend>
+<label>Name</label>
+<input name="name1">
+<br>
+<label>Type</label>
+<select>
+<option value="Normal">Normal</option>
+<option value="Small">Small</option>
+<option value="Big">Big</option>
+</select>
+</fieldset>
+<fieldset>
+<legend>Suggested delivery date</legend>
+<input name="date" value="dd-mm-rrrr">
+</fieldset>
+<fieldset>
+<legend>Additional data</legend>
+<textarea></textarea>
+
+</fieldset>
+
+<button>Order pizza</button>
+</form>
+
+</body>
+</html>

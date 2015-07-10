@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+<fieldset>
+<table>
+<tr>
+<td><b>Pizza name</b></td>
+<td><b>Pizza type</b></td>
+<td><b>Status</b></td>
+<td><b>Estimated delivery time</b></td>
+<td><b>Delivered</b></td>
+<td><b>Customer</b></td>
+</tr>
+<tr>
+<td>Margharita</td>
+<td>Big</td>
+<td>Created</td>
+<td>12.12.2015 12:12</td>
+<td>false</td>
+<td>
+<table>
+<tr>
+<td>
+John smith
+<td>
+</tr>
+<tr>
+<td>
+444-444-444,
+</td>
+</tr>
+<tr>
+<td>
+Lodz, Piotrkowska 19/23
+</td>
+</tr>
+</table>
+
+</td>
+</tr>
+<tr>
+<td>Corleone</td>
+<td>Small</td>
+<td>Done</td>
+<td>12.12.2015 12:12</td>
+<td>true</td>
+table>
+<tr>
+<td>
+Jan Kowalski
+<td>
+</tr>
+<tr>
+<td>
+333-333-333,
+</td>
+</tr>
+<tr>
+<td>
+Zgierz, Jakaś tam 12
+</td>
+</tr>
+</table>
+</tr>
+
+
+
+
+
+</table>
+<a href="">back</a>
+</fieldset>
+</body>
+</html>

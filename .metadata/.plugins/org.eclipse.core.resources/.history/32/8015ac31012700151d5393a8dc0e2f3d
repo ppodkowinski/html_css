@@ -1,0 +1,15 @@
+body {
+background: rgba(112,87,62,1);
+background: -moz-linear-gradient(left, rgba(112,87,62,1) 0%, rgba(122,96,72,1) 0%, rgba(99,75,54,1) 0%, rgba(99,76,59,0.5) 100%);
+background: -webkit-gradient(left top, right top, color-stop(0%, rgba(112,87,62,1)), color-stop(0%, rgba(122,96,72,1)), color-stop(0%, rgba(99,75,54,1)), color-stop(100%, rgba(99,76,59,0.5)));
+background: -webkit-linear-gradient(left, rgba(112,87,62,1) 0%, rgba(122,96,72,1) 0%, rgba(99,75,54,1) 0%, rgba(99,76,59,0.5) 100%);
+background: -o-linear-gradient(left, rgba(112,87,62,1) 0%, rgba(122,96,72,1) 0%, rgba(99,75,54,1) 0%, rgba(99,76,59,0.5) 100%);
+background: -ms-linear-gradient(left, rgba(112,87,62,1) 0%, rgba(122,96,72,1) 0%, rgba(99,75,54,1) 0%, rgba(99,76,59,0.5) 100%);
+background: linear-gradient(to right, rgba(112,87,62,1) 0%, rgba(122,96,72,1) 0%, rgba(99,75,54,1) 0%, rgba(99,76,59,0.5) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#70573e', endColorstr='#634c3b', GradientType=1 );
+}
+
+h1 {
+    color: navy;
+    margin-left: 20px;
+}

@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+<table>
+<tr>
+<td style="border: 10px;border-bottom-color: black; border-bottom-width: 10px">Pizza name</td>
+<td>Pizza type</td>
+<td>Status</td>
+
+</tr>
+
+
+
+</table>
+</body>
+</html>

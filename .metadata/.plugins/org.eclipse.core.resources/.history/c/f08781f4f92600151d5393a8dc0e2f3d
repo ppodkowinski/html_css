@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+<table >
+<tr>
+<td><b>Pizza name</b></td>
+<td><b>Pizza type</b></td>
+<td><b>Status</b></td>
+<td><b>Estimated delivery time</b></td>
+<td><b>Delivered</b></td>
+<td><b>Customer</b></td>
+</tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+
+
+
+
+
+</table>
+<a href="">back</a>
+</body>
+</html>

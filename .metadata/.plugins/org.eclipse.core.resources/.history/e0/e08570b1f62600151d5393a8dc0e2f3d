@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+<form action="submit">
+<fieldset>
+<label>Name</label>
+<input name="name">
+</br>
+<label>Surname</label>
+<input name="surname">
+</br>
+<label>Email</label>
+<input name="email">
+</br>
+<label>Type</label>
+<input type="radio" name="Individual"><label>Individual</label>
+<input type="radio" name="Bussiness"><label>Bussiness</label>
+</fieldset>
+<fieldset>
+<label>Name</label>
+<input>
+
+</fieldset>
+
+<button>Order pizza</button>
+</form>
+
+</body>
+</html>
